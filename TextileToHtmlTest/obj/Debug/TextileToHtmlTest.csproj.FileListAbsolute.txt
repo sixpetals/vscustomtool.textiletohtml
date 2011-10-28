@@ -1,0 +1,1 @@
+C:\Users\SUGIMOTO Takuma\Documents\Visual Studio 2010\Projects\VSCustomTool.TextileToHtml\TextileToHtmlTest\obj\Debug\ResolveAssemblyReference.cache

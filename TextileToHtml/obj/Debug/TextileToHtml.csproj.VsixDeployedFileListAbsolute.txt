@@ -1,0 +1,6 @@
+C:\Users\SUGIMOTO Takuma\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\sixpetals\TextileToHtml\1.0\\TextileToHtml.dll
+C:\Users\SUGIMOTO Takuma\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\sixpetals\TextileToHtml\1.0\\Textile.dll
+C:\Users\SUGIMOTO Takuma\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\sixpetals\TextileToHtml\1.0\\TextileToHtml.pkgdef
+C:\Users\SUGIMOTO Takuma\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\sixpetals\TextileToHtml\1.0\\extension.vsixmanifest
+C:\Users\SUGIMOTO Takuma\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\sixpetals\TextileToHtml\1.0\\TextileToHtml.pdb
+C:\Users\SUGIMOTO Takuma\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\sixpetals\TextileToHtml\1.0\\Textile.pdb

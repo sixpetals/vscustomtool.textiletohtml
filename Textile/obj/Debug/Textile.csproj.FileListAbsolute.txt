@@ -1,0 +1,5 @@
+C:\Users\SUGIMOTO Takuma\Documents\Visual Studio 2010\Projects\VSCustomTool.TextileToHtml\Textile\bin\Debug\Textile.dll
+C:\Users\SUGIMOTO Takuma\Documents\Visual Studio 2010\Projects\VSCustomTool.TextileToHtml\Textile\bin\Debug\Textile.pdb
+C:\Users\SUGIMOTO Takuma\Documents\Visual Studio 2010\Projects\VSCustomTool.TextileToHtml\Textile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SUGIMOTO Takuma\Documents\Visual Studio 2010\Projects\VSCustomTool.TextileToHtml\Textile\obj\Debug\Textile.dll
+C:\Users\SUGIMOTO Takuma\Documents\Visual Studio 2010\Projects\VSCustomTool.TextileToHtml\Textile\obj\Debug\Textile.pdb
