@@ -1,2 +1,0 @@
-E:\LABWorks\CodingStuff\LABSoft\Textile\Textile.UnitTests\obj\Debug\Textile.UnitTests.exe
-E:\LABWorks\CodingStuff\LABSoft\Textile\Textile.UnitTests\obj\Debug\Textile.UnitTests.pdb
